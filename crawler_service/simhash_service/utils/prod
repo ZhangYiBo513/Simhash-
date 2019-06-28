@@ -1,0 +1,4 @@
+username = golang_user
+password = bbtree#888
+host = dds-bp13cb9d614b49341.mongodb.rds.aliyuncs.com
+port = 3717

@@ -1,0 +1,4 @@
+启动：app_control.sh start dev/beta/prod 端口
+停止：app_control.sh stop dev/beta/prod 端口
+访问：http://机器ip地址：端口/status  程序运行中则返回{"status": "alive"}
+python依赖包见reqirements.txt
